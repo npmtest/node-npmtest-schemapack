@@ -1,6 +1,6 @@
 # npmtest-schemapack
 
-#### basic test coverage for  [schemapack (v1.4.2)](https://github.com/phretaddin/schemapack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-schemapack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-schemapack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-schemapack.svg)](https://travis-ci.org/npmtest/node-npmtest-schemapack)
+#### basic test-coverage for  [schemapack (v1.4.2)](https://github.com/phretaddin/schemapack#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-schemapack.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-schemapack) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-schemapack.svg)](https://travis-ci.org/npmtest/node-npmtest-schemapack)
 
 #### The fastest and smallest JavaScript object serialization library. Efficiently encode your objects in to compact byte buffers and then decode them back in to objects on the receiver. Integrates very well with WebSockets.
 
@@ -93,7 +93,8 @@
         "test": "ava"
     },
     "tonicExampleFilename": "tonic.js",
-    "version": "1.4.2"
+    "version": "1.4.2",
+    "bin": {}
 }
 ```
 
